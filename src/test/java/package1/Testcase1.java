@@ -9,7 +9,7 @@ public class Testcase1 {
 	
 	public void testcase1()
 	{
-		System.out.println(" Testcase1");
+		System.out.println(" Testcase1 updated");
 	}
 
 }
